@@ -65,16 +65,6 @@ Encadré par : **[:contentReference[oaicite:2]{index=2}](mailto:fadila.bentayeb@
 
 ---
 
-## ⚙️ Technologies utilisées
-
-- [:contentReference[oaicite:3]{index=3}](https://www.python.org/) / [:contentReference[oaicite:4]{index=4}](https://jupyter.org/)
-- [:contentReference[oaicite:5]{index=5}](https://powerbi.microsoft.com/) ou [:contentReference[oaicite:6]{index=6}](https://www.tableau.com/)
-- [:contentReference[oaicite:7]{index=7}](https://www.microsoft.com/fr-fr/microsoft-365/excel)
-- Outils de data catalog open source : [:contentReference[oaicite:8]{index=8}](https://www.amundsen.io/), [:contentReference[oaicite:9]{index=9}](https://atlas.apache.org/), [:contentReference[oaicite:10]{index=10}](https://www.talend.com/)
-- [:contentReference[oaicite:11]{index=11}](https://git-scm.com/) / [:contentReference[oaicite:12]{index=12}](https://github.com/)
-
----
-
 ## 📌 Évaluation
 
 | Élément                            | Poids |
